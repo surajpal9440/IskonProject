@@ -82,3 +82,11 @@ python app.py
 cd frontend
 npm install
 npm start
+
+🔑 Environment Variables
+
+Create .env file inside backend:
+
+SECRET_KEY=your_secret_key
+DATABASE_URL=your_database_url
+JWT_SECRET=your_jwt_secret
